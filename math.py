@@ -1,6 +1,7 @@
 import time
-print("True+True="+"True+True")
-variable = "1"
-print("1*5="variable*5)
+print(True+True)
+string = "1"
+print(string*5)
+print("aw man this isnt java")
 while True:
 	pass
